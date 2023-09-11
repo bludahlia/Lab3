@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 void printMenu(int& choice) {
-	cout << "Welcome to my program, please select an operation to perform:" << endl;
+	cout << "Welcome to my program, please type the number corresponding with the function you wish to perform:" << endl;
 	cout << "1. Addition" << endl;
 	cout << "2. Subtraction" << endl;
 	cout << "3. Multiplication" << endl;
